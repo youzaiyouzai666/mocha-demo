@@ -1,0 +1,20 @@
+{
+  "name": "mocha-demo",
+  "version": "0.0.0",
+  "description": "javascript 测试框架mocha学习",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youzaiyouzai666/mocha-demo.git"
+  },
+  "author": "caoyi",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "287cd9767561e21320429e406589d027e44fbdd5",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
